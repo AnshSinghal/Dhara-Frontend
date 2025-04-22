@@ -152,7 +152,7 @@ export default function LampDemo() {
           <button className="relative inline-flex w-[18rem] h-20 overflow-hidden rounded-full p-[5px] focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50">
             <span className="absolute inset-[-1000%] animate-[spin_2s_linear_infinite] bg-[conic-gradient(from_90deg_at_50%_50%,#E2CBFF_0%,#393BB2_50%,#E2CBFF_100%)]" />
             <span className="inline-flex h-full w-full cursor-pointer items-center justify-center rounded-full bg-slate-950 px-3 py-1 text-lg font-medium text-white backdrop-blur-3xl">
-              Get Started with DHARA &rarr;
+              Get Started with Nyayalya &rarr;
             </span>
           </button>
         </a>
@@ -165,13 +165,13 @@ export default function LampDemo() {
   <div className="p-4 max-w-7xl mx-auto relative z-10 w-full flex flex-col md:flex-row items-center justify-between pt-20 md:pt-0">
     <div className="md:w-1/2">
       <h1 className="text-lg font-bold text-left bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50">
-        DHARA, your Digital Hub for Advanced Research in Adjudication, is an AI-powered legal research engine designed to revolutionize how judges and legal professionals navigate the complexities of India's commercial courts. By harnessing cutting-edge natural language processing and embedding-based retrieval, DHARA goes beyond simple keyword matching, delivering contextually relevant and customized legal insights tailored to each unique case. With multilingual support, predictive analytics, and a commitment to data privacy, DHARA empowers the Indian judiciary to make faster, fairer, and more informed decisions, ultimately contributing to a more efficient and accessible legal system.
+        Nyayalya, your Digital Hub for Advanced Research in Adjudication, is an AI-powered legal research engine designed to revolutionize how judges and legal professionals navigate the complexities of India's commercial courts. By harnessing cutting-edge natural language processing and embedding-based retrieval, Nyayalya goes beyond simple keyword matching, delivering contextually relevant and customized legal insights tailored to each unique case. With multilingual support, predictive analytics, and a commitment to data privacy, Nyayalya empowers the Indian judiciary to make faster, fairer, and more informed decisions, ultimately contributing to a more efficient and accessible legal system.
       </h1>
     </div>
     <div className="md:w-1/2 flex justify-center">
       <Image
         src="/favicon.png" // Replace with your image path
-        alt="DHARA Illustration"
+        alt="Nyayalya Illustration"
         className="w-full h-auto"
         width={500}
         height={500}
